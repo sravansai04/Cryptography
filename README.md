@@ -10,12 +10,12 @@ It's used in computer systems to keep private information and some wireless tran
 
 ## Algorithms👇
 
-[Traditional/Substitution Cipher!](https://www.youtube.com/watch?v=b2jBaSy9SNw&list=PLqKXJesd_TYorJ99etqohuRDuW75dj1OL&index=1)
+[Traditional/Substitution Cipher](https://www.youtube.com/watch?v=b2jBaSy9SNw&list=PLqKXJesd_TYorJ99etqohuRDuW75dj1OL&index=1)
 <br>
-[Transposition Cipher!](https://www.youtube.com/watch?v=Iyh270Jg1gg&list=PLqKXJesd_TYorJ99etqohuRDuW75dj1OL&index=2)
+[Transposition Cipher](https://www.youtube.com/watch?v=Iyh270Jg1gg&list=PLqKXJesd_TYorJ99etqohuRDuW75dj1OL&index=2)
 <br>
-[S-DES PART-1 || Key-Generation Technique!](https://www.youtube.com/watch?v=Za1dxCKjB6A&list=PLqKXJesd_TYorJ99etqohuRDuW75dj1OL&index=3)
+[S-DES PART-1 || Key-Generation Technique](https://www.youtube.com/watch?v=Za1dxCKjB6A&list=PLqKXJesd_TYorJ99etqohuRDuW75dj1OL&index=3)
 <br>
-[S-DES Part-2 || Encryption Technique!](https://www.youtube.com/watch?v=LEyog82p7fQ&list=PLqKXJesd_TYorJ99etqohuRDuW75dj1OL&index=4)
+[S-DES Part-2 || Encryption Technique](https://www.youtube.com/watch?v=LEyog82p7fQ&list=PLqKXJesd_TYorJ99etqohuRDuW75dj1OL&index=4)
 <br>
-[RSA Algorithm!](https://www.youtube.com/watch?v=369KqJYeYYs&list=PLqKXJesd_TYorJ99etqohuRDuW75dj1OL&index=5)
+[RSA Algorithm](https://www.youtube.com/watch?v=369KqJYeYYs&list=PLqKXJesd_TYorJ99etqohuRDuW75dj1OL&index=5)
